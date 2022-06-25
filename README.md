@@ -1,0 +1,5 @@
+  Este projeto é um desafio proposto pela Rocketseat
+que consiste em fazer um card que conecta a api do Github e exibe as informações da pessoa, porém como ainda não tenho conhecimento o suficiente em Javascript, eu não implementei essa parte e coloquei as informações teste disponilibizadas pela Rocketseat estaticamente. Neste projeto também deveria ser implementado um botão que muda a cor do background do card toda vez que clicado.
+  Todo o template do projeto foi disponibilizado pela Rocketseat através de um link para o Figma. De lá retirei todas as propriedades e valores CSS.
+  Tudo que fiz neste projeto foi desenvolver toda a parte html, implementar os seletores css já com as propriedades e valores disponilibizadas como já mencionado, com algumas modificações, e a parte Javascript que é bem simples. Segue o link com os requisitos do desafio:
+  https://efficient-sloth-d85.notion.site/Desafio-Rocketcard-0d3572ef941f4a88889191773fe61c44

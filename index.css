@@ -1,0 +1,339 @@
+*{
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #FFFFFF;
+
+}
+
+#container{
+
+  position: relative;
+  width: 1440px;
+  height: 940px;
+  background: #0E1218;
+
+}
+
+#tituloCard{
+
+  position: absolute;
+  width: 299px;
+  height: 18px;
+  left: 438px;
+  top: 46px;
+
+}
+
+
+#bgCard{
+  
+  position: absolute;
+  width: 438px;
+  height: 693px;
+  left: 366px;
+  top: 106px;
+
+  background: #000000;
+  border-radius: 50px;
+}
+
+#card{
+  position: absolute;
+  width: 407px;
+  height: 644px;
+  left: 382px;
+  top: 130px;
+
+  background: #0E1218;
+  border-radius: 50px;
+}
+
+#nomeGitHub{
+
+  position: absolute;
+  width: 230.41px;
+  height: 54.44px;
+  left: 415.58px;
+  top: 167.78px;
+
+}
+
+#logoHeader{
+
+  position: absolute;
+  width: 30.14px;
+  height: 36.94px;
+  left: 428.22px;
+  top: 177.5px;
+}
+
+#elipseHeader{
+
+  position: absolute;
+  width: 55.42px;
+  height: 54.44px;
+  left: 415.58px;
+  top: 167.78px;
+
+  
+}
+
+#textoHeader{
+
+  position: absolute;
+  width: 155.55px;
+  height: 18.47px;
+  left: 490.44px;
+  top: 150.5px;
+
+  font-size: 24px;
+  line-height: 36px;
+
+}
+
+#frame{
+
+  position: absolute;
+  width: 331px;
+  height: 418px;
+  left: 404px;
+  top: 234px;
+
+}
+
+#imagemPerfil{
+
+  position: absolute;
+  width: 372px;
+  height: 370.23px;
+  left: 13px;
+  top: 30px;
+
+  
+}
+
+#info{
+
+  position: absolute;
+  width: 195.5px;
+  height: 194.7px;
+  left: 403.13px;
+  top: 482.82px;
+
+  background: linear-gradient(180deg, #000000 3.65%, rgba(70, 69, 69, 0.72) 53.65%, rgba(62, 56, 56, 0.42) 100%);
+  border-radius: 50px;
+}
+
+#logoSeguidores{
+
+  position: absolute;
+  width: 20.79px;
+  height: 20.79px;
+  left: 423.58px;
+  top: 515.82px;
+
+}
+
+#numeroSeguidores{
+
+  position: absolute;
+  width: 152.9px;
+  height: 15.29px;
+  left: 453.37px;
+  top: 498.7px;
+
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #FFFFFF;
+}
+
+#seguindo{
+  position: absolute;
+  width: 20.79px;
+  height: 20.79px;
+  left: 423.58px;
+  top: 544.74px;
+}
+#logoSeguindo{
+  position: absolute;
+  left: 0.37%;
+  right: 1.16%;
+  top: 12.5%;
+  bottom: 18.73%;
+}
+#numeroSeguindo{
+  position: absolute;
+  left: 31.49%;
+  right: 59.23%;
+  top: 57.66%;
+  bottom: 40.7%;
+
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #FFFFFF;
+
+}
+
+#repositorios{
+  position: absolute;
+  width: 20.79px;
+  height: 20.79px;
+  left: 423.58px;
+  top: 573.66px;
+
+}
+#logoRepositorios{
+  position: absolute;
+  left: 12.5%;
+  right: 12.5%;
+  top: 0;
+  bottom: 1.56%;
+
+}
+#numeroRepositorios{
+
+  position: absolute;
+  left: 31.49%;
+  right: 59.23%;
+  top: 60.93%;
+  bottom: 37.43%;
+
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #FFFFFF;
+
+}
+
+#compania{
+  position: absolute;
+  width: 20.79px;
+  height: 20.79px;
+  left: 426.29px;
+  top: 602.58px;
+}
+#logoCompania{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+}
+#nomeCompania{
+  position: absolute;
+  left: 31.49%;
+  right: 59.23%;
+  top: 64.01%;
+  bottom: 34.36%;
+
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #FFFFFF;
+}
+
+
+#localizacao{
+  position: absolute;
+  width: 20.79px;
+  height: 20.79px;
+  left: 423.58px;
+  top: 631.5px;
+
+}
+#logoLocalizacao{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+}
+#textoLocalizacao{
+  position: absolute;
+  left: 31.49%;
+  right: 59.23%;
+  top: 67.08%;
+  bottom: 31.28%;
+
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #FFFFFF;
+
+}
+
+#logoRodape{
+
+  position: absolute;
+  width: 28px;
+  height: 34.32px;
+  left: 599px;
+  top: 712.26px;
+
+}
+
+#textoRodape{
+
+  position: absolute;
+  width: 144.52px;
+  height: 17.16px;
+  left: 637.89px;
+  top: 692px;
+  
+}
+
+#botaoCorFundo{
+
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 229px;
+  height: 59.47px;
+  left: 950px;
+  top: 424px;
+
+  background: #000000;
+  border: 2px solid #1A1A1A;
+  border-radius: 15px;
+  font-size: 15px;
+  line-height: 23px;
+}
+#botaoCorFundo:hover{
+  cursor: pointer;
+  filter: brightness(0.7);
+}
+#botaoCorFundo:active{
+  color: #521dd8;
+  transform: translateY(2px);
+}
+
+#tituloBotao{
+
+  position: absolute;
+  width: 225px;
+  height: 18px;
+  left: 954px;
+  top: 363px;
+
+}
